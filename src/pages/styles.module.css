@@ -46,3 +46,6 @@
   padding: 2rem 0;
   width: 100%;
 }
+.hero__subtitle code {
+  color: black;
+}
